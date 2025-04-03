@@ -7,7 +7,7 @@
 
 I'm a software engineer, student, proud Apple Developer Academy alumni and I currently work using backend technologies to impact the lives of millions of people.
 
-I've been coding for 7 years creating mobile, web and backend products. I’m passionate about building/maintaining high-quality software and I love bring my soft skills such as communication, proactiveness, teamwork, and autonomy to every project I work on.
+I've been coding for 7 years creating mobile, web and backend products. I’m passionate about building/maintaining high-quality software and I love bring my soft skills such as communication, proactiveness, teamwork and autonomy to every project I work on.
 
 Currently based in Curitiba, Brazil.
 
